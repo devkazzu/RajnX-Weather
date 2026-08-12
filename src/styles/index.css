@@ -19,7 +19,7 @@ body{font-family:Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Rob
 }
 
 .glass-btn{
-  @apply w-10 h-10 rounded-full bg-white/3 flex items-center justify-center backdrop-blur border border-white/[0.04];
+  @apply w-10 h-10 rounded-full bg-white/[0.03] flex items-center justify-center backdrop-blur border border-white/[0.04];
 }
 
 .glass-card{
